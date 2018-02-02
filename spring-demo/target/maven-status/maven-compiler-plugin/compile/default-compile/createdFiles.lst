@@ -1,0 +1,12 @@
+com\concretepage\service\UserService.class
+com\concretepage\config\SecurityConfig.class
+com\concretepage\config\SecurityInitializer.class
+com\concretepage\Main.class
+com\concretepage\dao\UserDAO.class
+com\concretepage\entity\UserInfo.class
+com\concretepage\service\IUserService.class
+com\concretepage\config\WebAppInitializer.class
+com\concretepage\config\DBConfig.class
+com\concretepage\controller\UserController.class
+com\concretepage\service\MyAppUserDetailsService.class
+com\concretepage\config\AppConfig.class
